@@ -4,7 +4,7 @@
 		module="earlybirdgrautest-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20190614093555"
+		publication="20190614101947"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
