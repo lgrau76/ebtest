@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/earlybirdgrautest.iml" filepath="$PROJECT_DIR$/.idea/modules/earlybirdgrautest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/earlybirdgrautest-build.iml" filepath="$PROJECT_DIR$/.idea/modules/earlybirdgrautest-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ebtest.iml" filepath="$PROJECT_DIR$/.idea/modules/ebtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ebtest-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ebtest-build.iml" />
     </modules>
   </component>
 </project>
